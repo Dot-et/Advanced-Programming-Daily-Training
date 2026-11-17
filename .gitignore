@@ -1,0 +1,23 @@
+# Compiled Java
+*.class
+out/
+bin/
+target/
+
+# VS Code / Java extension
+.vscode/
+.settings/
+.project
+.classpath
+
+# Generated files from your exercises
+course.txt
+student.txt
+student/
+student_*/
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
