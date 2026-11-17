@@ -14,7 +14,6 @@ Daily Java exercises. Author: [@Dot-et](https://github.com/Dot-et)
 | 06  | WatchService | ⬜ |
 | 07  | Streams & serialization | ⬜ |
 
-## Structure
-Each day lives in `chapterOne/` (or `dayNN-topic/`). Run any exercise:
+
 
 
