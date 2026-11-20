@@ -11,6 +11,5 @@ public class PathExample{
         System.out.println(path.toString());
         System.out.println(path.toAbsolutePath());
         System.out.println(path.normalize());
-        
-    }
+          }
 }

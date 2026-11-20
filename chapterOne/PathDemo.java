@@ -11,8 +11,8 @@ public class PathDemo {
         System.out.println(Files.isExecutable(path));
         System.out.println(Files.isWritable(path));
         System.out.println(Files.isDirectory(path));
-        System.out.println(Files.isRegularFile(path));
+        System.out.println(Files.isRegularFile(path)); 
+
         
     }
-    
-}
+    }

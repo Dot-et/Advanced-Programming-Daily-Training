@@ -10,9 +10,8 @@ target/
 .project
 .classpath
 
-# Generated files from your exercises
-course.txt
-student.txt
+# Generated files from exercises
+*.txt
 student/
 student_*/
 *.tmp
